@@ -1,0 +1,64 @@
+#catName {
+    font-size: 23px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+
+#sect1, #sect2 {
+    text-align: center;
+}
+
+body {
+    background-image: url("https://www.designyourway.net/drb/wp-content/uploads/2015/05/Beach-Wallpaper-Desktop-Background-39-1600x1000.jpg");
+}
+
+#table2 {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    font-size: 23px;
+    padding: 20px;
+}
+
+#table1 {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    border: 1px;
+    font-size: 23px;
+}
+
+#currentGrade {
+    font-size: 30px;
+    color: white;
+}
+#sect1 {
+    position: relative;
+    top: 30px;
+}
+#sect2 {
+    position: relative;
+    top: 70px;
+}
+
+#userNeed, #grade {
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    font-family: Ariel;
+    font-weight: bold;
+    color: royalblue;
+}
+
+.w3-bungee {
+    font-family: 'Geneva';
+    font-weight: bold;
+    color: gold;
+}
+
+#addButton {
+    position: relative;
+    bottom: 5px;
+}
